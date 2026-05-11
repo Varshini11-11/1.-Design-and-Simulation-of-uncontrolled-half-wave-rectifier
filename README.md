@@ -53,10 +53,13 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
 
+<img width="857" height="511" alt="image" src="https://github.com/user-attachments/assets/bd4fff3c-282c-4f37-90b8-f0002abb8eee" />
+
 ## Output
+<img width="1920" height="1140" alt="Screenshot 2026-05-11 142755" src="https://github.com/user-attachments/assets/4f53e8bc-d848-4b34-aee4-e5b9618ef33b" />
 
 ## Result
-
+Thus designed and simulated a Half wave rectifier (Uncontrolled) in MATLAB Simulink.
 
 
 
